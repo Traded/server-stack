@@ -1,4 +1,4 @@
 server-stack
 ============
 
-Server stack and control framework
+Server stack and AWS control framework
